@@ -9,4 +9,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,tailwind,next,express,redux,python)](https://skillicons.dev)
 ---
-[![](https://visitcount.itsvg.in/api?id=Scapy47&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Scapy47&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
