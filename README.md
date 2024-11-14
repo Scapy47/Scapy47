@@ -2,7 +2,7 @@
 🌱 I am currently learning c 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,tailwind,next,express,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,next,express,redux,&perline=6)](https://skillicons.dev)
 ---
 
 ###
