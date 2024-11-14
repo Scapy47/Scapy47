@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Scapy47/Scapy47/output/snake.svg" alt="Snake animation" />
 
 ###
 [![](https://visitcount.itsvg.in/api?id=Scapy47&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
