@@ -1,7 +1,10 @@
 # About Me 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,next,express,redux)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+---
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,next,express,redux)](https://skillicons.dev)
 ---
 
 ###
