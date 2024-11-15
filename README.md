@@ -1,8 +1,7 @@
-# About Me
-🌱 I am currently learning c 
+# About Me 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,next,express,redux,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,tailwind,next,express,redux)](https://skillicons.dev)
 ---
 
 ###
