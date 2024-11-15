@@ -1,10 +1,8 @@
-# 
-
-<div>
-<img src='https://skillicons.dev/icons?i=js,ts'/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 <br/>
-<img src='https://skillicons.dev/icons?i=nodejs,react,tailwind,next,express,redux'/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,next,express,redux)](https://skillicons.dev)
+
+
 
 ###
 
