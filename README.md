@@ -5,7 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,react,tailwind,next,express,redux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,react,tailwind,next,astro,express,redux&perline=6)](https://skillicons.dev)
 
 
 
