@@ -1,11 +1,10 @@
-<a href="https://app.daily.dev/scapy47"><img src="https://api.daily.dev/devcards/v2/KSpw1yABoNPdr2hJKtkbE.png?type=wide&r=dto" width="652" alt="Scapy47's Dev Card"/></a>
-<br/>
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,react,tailwind,next,astro,express,redux&perline=6)](https://skillicons.dev)
 
-
+<a href="https://app.daily.dev/scapy47"><img src="https://api.daily.dev/devcards/v2/KSpw1yABoNPdr2hJKtkbE.png?type=default&r=dto" width="356" alt="Scapy47's Dev Card"/></a>
 
 ###
 
