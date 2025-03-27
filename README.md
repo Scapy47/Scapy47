@@ -1,8 +1,4 @@
-<div align="center" >
-<a href="https://app.daily.dev/scapy47"><img src="https://api.daily.dev/devcards/v2/KSpw1yABoNPdr2hJKtkbE.png?type=default&r=dto" width="356" alt="Scapy47's Dev Card"/></a>
-</div>
 
-###
 
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scapy47&layout=donut&theme=tokyonight" alt="languages graph" height=200  />
