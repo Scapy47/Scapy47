@@ -1,8 +1,6 @@
 
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scapy47&layout=donut&theme=tokyonight" alt="languages graph" height=200  />
-</div>
+
 
 <br />
 
